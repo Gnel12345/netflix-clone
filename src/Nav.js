@@ -23,7 +23,7 @@ return ()=>{
         <div className={`nav ${show && "nav_black"}`}>
             <img
             className="nav_logo"
-            src="https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.svg"
+            src  =  "/images/Myflix.jpg"
             alt="Netflix Logo"
             />
             <img
